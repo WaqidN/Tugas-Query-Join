@@ -1,0 +1,1 @@
+INSERT INTO Kategori (kotegori_id, kategori_name) VALUE (8,'Snack')

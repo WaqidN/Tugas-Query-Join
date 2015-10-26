@@ -1,0 +1,2 @@
+INSERT INTO Detail_penjualan(detail_penjualan_id, total, penjualan_id, kasir_id, produke_kode)
+VALUE (7,60000,3,8,2)

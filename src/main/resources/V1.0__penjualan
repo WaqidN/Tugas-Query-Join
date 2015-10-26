@@ -1,0 +1,2 @@
+INSERT INTO Penjualan(penjualan_id, nota, tanggal, kasir_id, member_id)
+VALUES(9,1009,'2015-10-10',5,1300018085)

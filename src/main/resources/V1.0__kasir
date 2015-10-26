@@ -1,0 +1,1 @@
+INSERT INTO Kasir (kasir_id, kasir_name, password) VALUE (9, 'Angelin','956yrt')

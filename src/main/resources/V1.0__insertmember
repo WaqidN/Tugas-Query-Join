@@ -1,0 +1,1 @@
+INSERT INTO Member (member_id, member_name) VALUE (1300018082,'Agung Nopa');

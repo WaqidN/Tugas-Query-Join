@@ -1,0 +1,6 @@
+SELECT dp.detail_penjualan_id,p.nota,p.tanggal,pr.produke_name,k.kotegori_id,m.member_name,dp.total
+FROM Detail_penjualan dp
+INNER JOIN Penjualan p ON (p.penjualan_id = dp.penjualan_id)
+INNER JOIN Member m ON (m.member_id = p.member_id)
+INNER JOIN Produk pr ON (pr.produke_kode = dp.produke_kode)
+INNER JOIN Kategori k ON (k.kotegori_id = pr.kotegori_id)

@@ -1,0 +1,2 @@
+INSERT INTO Produk (produke_kode, produke_name, harga, kotegori_id)
+VALUE (10, 'Axe', 26000, 2)
